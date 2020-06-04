@@ -1,1 +1,2 @@
-# https://1tyu.cn
+## https://1tyu.com
+## https://1tyu.cn
