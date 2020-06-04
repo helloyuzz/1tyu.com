@@ -8,8 +8,8 @@
 
 #### 联系方式 - Support or Contact
 
+- [x] __`yusais_life@yahoo.com`__
 - [x] __`yusais_life@qq.com`__
-- [ ] __`yusais_life@yahoo.com`__
 - [ ] __`yusais.life@gmail.com`__
 
 #### Author:helloyuzz
