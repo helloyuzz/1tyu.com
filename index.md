@@ -4,7 +4,7 @@
 
 为单纯的学习网站。
 - [x] https://1tyu.com
-- [x] https:/1tyu.cn
+- [x] https://1tyu.cn
 
 #### 联系方式 - Support or Contact
 
