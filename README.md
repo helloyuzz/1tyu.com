@@ -1,2 +1,2 @@
-## https://1tyu.com
-## https://1tyu.cn
+- [x] https://1tyu.com
+- [x] https://1tyu.cn
